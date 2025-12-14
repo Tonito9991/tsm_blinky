@@ -6,3 +6,10 @@ Fixes:
 
 Features:
  - Initial version of application
+
+## v0.0.2
+Fixes:
+- None
+
+Features:
+- second Initial version of application
